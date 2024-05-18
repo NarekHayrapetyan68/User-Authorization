@@ -1,9 +1,10 @@
 # created by virtualenv automatically
 Lib/
 Scripts/
-
-
 pyvenv.cfg
+/include
+
+.env
 
 /__pycache__/
 instance/
